@@ -26,3 +26,5 @@ def post_new(request):
     return render(request, 'blog/new.html', {"form":form})
 
     # dhfgh
+
+    # daksfok
